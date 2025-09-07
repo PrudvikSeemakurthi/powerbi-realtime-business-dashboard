@@ -5,6 +5,9 @@
 This Power BI dashboard is built to analyze **Blinkit’s sales performance, customer satisfaction, and inventory distribution**.  
 It provides an end-to-end view of business operations using **key KPIs and visualizations**.  
 
+<img width="1282" height="721" alt="image" src="https://github.com/user-attachments/assets/3d715825-c0d7-4086-b835-2ee4733799dc" />
+
+
 ### 🔹 Key KPIs Displayed:
 1. **Total Sales** – Overall revenue generated from all items sold  
 2. **Average Sales** – Average revenue per sale  
