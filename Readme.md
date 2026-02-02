@@ -51,11 +51,6 @@ This project addresses this challenge by designing a **real-time Power BI dashbo
 - Sales and orders update live in the dashboard.  
 - KPIs highlight performance deviations in real-time.  
 - Trends and anomalies are visible instantly.  
-- Interactive filters allow deep dives into specific categories.  
-
----
-
-## 🖥️ Dashboard / Model / Output
-(Add screenshots here once uploaded)
+- Interactive filters allow deep dives into specific categories.
 
 
